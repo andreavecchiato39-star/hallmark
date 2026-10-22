@@ -1,0 +1,8 @@
+{
+  "name": "Hallmark",
+  "description": "A design skill for AI coding assistants that refuses to look AI-generated",
+  "prompt": "Hallmark design skill website and interactive gallery",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
